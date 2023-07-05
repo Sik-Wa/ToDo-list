@@ -106,7 +106,7 @@ const Navbar = () => {
                       href=""
                       className="bg-[#010101] text-white p-2 rounded-md"
                     >
-                      Access your account
+                      Access your account here
                     </a>
                   </li>
                 </ul>
